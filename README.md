@@ -1,1 +1,17 @@
-Proyecto de testing QA donde se realizaron pruebas manuales sobre una aplicación web y APIs, documentando bugs y validando flujos de usuario.
+# QA Testing Project
+
+Proyecto personal de práctica QA enfocado en pruebas manuales y pruebas de API.
+
+## Herramientas utilizadas
+- Postman
+- GitHub
+- DemoBlaze
+
+## Actividades realizadas
+- Pruebas manuales de flujos de compra
+- Validación de formularios
+- Documentación de bugs
+- Pruebas básicas de API
+
+## Objetivo
+Desarrollar experiencia práctica en testing QA y documentación de incidencias.
