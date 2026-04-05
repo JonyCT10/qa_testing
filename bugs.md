@@ -1,6 +1,6 @@
 # QA Testing Project - Bugs encontrados
 
----
+--
 
 #Bug 1: API no guarda datos después de POST
 
